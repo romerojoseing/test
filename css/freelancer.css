@@ -9650,6 +9650,10 @@
    font-size: 2rem;
  }
  
+ .iconh {
+   color: #527a99 !important;
+   font-size: 3rem;
+ }
  
  .divider-custom.divider-light .divider-custom-line {
    background-color: #527a99;
