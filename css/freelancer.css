@@ -5580,7 +5580,7 @@ a.close.disabled {
   background-color: #fff;
   background-clip: padding-box;
   border: 0 solid rgba(0, 0, 0, 0.2);
-  
+  border-radius: .5rem;
   outline: 0;
 }
 
