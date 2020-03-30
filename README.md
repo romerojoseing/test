@@ -1,5 +1,5 @@
-<p align="center"><img src="readme/ro.png" width="200"></p>
-<h1 align="center">DESARROLLADOR WEB</h1>
+<p align="center"><img src="readme/ro.png" width="150"></p>
+<h2 align="center">DESARROLLADOR WEB</h2>
 
 <p align="center">
 Te doy la bienvenida a mi repositorio, puedes usar este contenido con total libertad, siempre teniendo el mayor respeto por los autores que desarrollaron el proyecto.
