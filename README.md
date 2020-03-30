@@ -23,8 +23,6 @@ Descripcion corta del proyecto para explicar de que se trata y hacerle entender 
 
 <br><br>
 
-[![📟](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/install.png)](./../../)
-
 ## Usa el proyecto
 
 Para usar cualquier proyecto desde tu ordenador siempre debes tener en cuenta los requisitos minimos para ejecutar este en el mejor ambiente posible, y para eso es bueno prestar atenciuon a las recomendaciones.
@@ -48,7 +46,6 @@ $ npm run dev
 
 <br><br>
 
-[![⚙️](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/usage.png)](./../../)
 ## Deployment
 
 To deploy simply run
@@ -59,7 +56,6 @@ npm run build
 
 <br><br>
 
-[![📃](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/license.png)](./../../)
 ## Built With
 
 - [HTML](https://reactjs.org/)
@@ -70,7 +66,6 @@ npm run build
 
 <br><br>
 
-[![🙌](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/connect.png)](./../../)
 ## Authors
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="200"></p>
