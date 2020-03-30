@@ -1,7 +1,8 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+<p align="center"><img src="readme/ro.png" width="200"></p>
+<h1 align="center">DESARROLLADOR WEB</h1>
 
 <p align="center">
-  Todos los proyectos necesitan un lema de entrada para poder enamorar al usuario y convencerlos de que es necesario.
+Te doy la bienvenida a mi repositorio, puedes usar este contenido con total libertad, siempre teniendo el mayor respeto por los autores que desarrollaron el proyecto.
 </p>
 <p align="center">
 <a href="#titulo-del-proyecto"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
