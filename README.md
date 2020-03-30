@@ -1,5 +1,4 @@
-<p align="center"><img src="readme/ro.png" width="150"></p>
-<h2 align="center">DESARROLLADOR WEB</h2>
+<p align="center"><img src="readme/log.png" width="150"></p>
 
 <p align="center">
 Te doy la bienvenida a mi repositorio, puedes usar este contenido con total libertad, siempre teniendo el mayor respeto por los autores que desarrollaron el proyecto.
@@ -69,7 +68,7 @@ npm run build
 
 ## Authors
 
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="200"></p>
+<p align="center"><img src="readme/loge.png" width="200"></p>
 
 <p align="center">
   Todos los proyectos necesitan un lema de entrada para poder enamorar al usuario y convencerlos de que es necesario.
