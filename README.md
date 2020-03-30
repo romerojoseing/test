@@ -4,51 +4,51 @@
   Todos los proyectos necesitan un lema de entrada para poder enamorar al usuario y convencerlos de que es necesario.
 </p>
 <p align="center">
-<a href="#vista"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
+<a href="#titulo-del-proyecto"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
+<a target="_blank" href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
 <br>
 
-
-# Titulo
+# Titulo del proyecto
 
 Descripcion corta del proyecto para explicar de que se trata y hacerle entender al usuario que el proyecto vale la pena ser utilizado y desarroollado en un entorno real de produccion.
 
 <br>
 
-## Vista 
+## Prueba el Proyecto en Vivo  <a  href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads" ></a> 
+![Thumbnail](readme/romero.png)
 
-![Thumbnail](web.png)
-
-<br>
+<br><br>
 
 [![📟](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/install.png)](./../../)
 
-## Getting Started
+## Usa el proyecto
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Para usar cualquier proyecto desde tu ordenador siempre debes tener en cuenta los requisitos minimos para ejecutar este en el mejor ambiente posible, y para eso es bueno prestar atenciuon a las recomendaciones.
 
 ### Prerequisites
 
-You need to create an API KEY in [The Movie Database API](https://www.themoviedb.org/documentation/api)
-Create an .env.local file on the root of the project and put your API key
+Necesitas tener los siguientes programas o tecnologias instaladas para poder ejecutar el proyecto.
+
+- **[Google Chrome](https://vehikl.com/)**
+- **[Tighten Co.](https://tighten.co)**
+
+
+### Instalar
+
+Para este proyecto necesitaras clonar este repositorio o descargarlo a tu ordenador.
 
 ```
-REACT_APP_API=yourapikeyhere
+$ npm install
+$ npm run dev
 ```
 
-### Installing
+<br><br>
 
-Clone the Repository and run
-
-```
-npm install
-npm run dev
-```
-
+[![⚙️](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/usage.png)](./../../)
 ## Deployment
 
 To deploy simply run
@@ -57,18 +57,32 @@ To deploy simply run
 npm run build
 ```
 
+<br><br>
+
+[![📃](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/license.png)](./../../)
 ## Built With
 
-- [React JS](https://reactjs.org/)
-- [React Router](https://github.com/ReactTraining/react-router)
-- [Redux](https://redux.js.org/)
-- [Redux Thunk](https://github.com/reduxjs/redux-thunk)
-- [Styled Components](https://www.styled-components.com)
+- [HTML](https://reactjs.org/)
+- [CSS](https://github.com/ReactTraining/react-router)
+- [PHP](https://redux.js.org/)
+- [Laravel](https://github.com/reduxjs/redux-thunk)
+- [MySql](https://www.styled-components.com)
 
-## Contributing
+<br><br>
 
-Please feel free to send pull request if you want to contribute!
-
+[![🙌](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/connect.png)](./../../)
 ## Authors
 
-- **Fidalgo** - _Development_ - [Fidalgo](https://github.com/fidalgodev)
+<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="200"></p>
+
+<p align="center">
+  Todos los proyectos necesitan un lema de entrada para poder enamorar al usuario y convencerlos de que es necesario.
+</p>
+<p align="center">
+<a href="#titulo-del-proyecto"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
+<a target="_blank" href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
+</p>
