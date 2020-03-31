@@ -16,68 +16,65 @@ Te doy la bienvenida a mi repositorio, puedes usar este contenido con total libe
 
 Soy Romero Desarrollador Web autodidacta de Venezuela y uno de los proyectos más importantes es el que estás viendo ahora mismo, que se trata de mi sitio web y mi carta de presentación, quería algo ligero, optimizado para los buscadores y agradable a usuario.
 
-<br>
-
 ## [Prueba en Vivo](https://romerojose.com/) 
 ![Thumbnail](readme/romero.png)
 
 <br><br>
 
-## Usa el proyecto
+## Usa el Proyecto
 
-Para usar cualquier proyecto desde tu ordenador siempre debes tener en cuenta los requisitos minimos para ejecutar este en el mejor ambiente posible, y para eso es bueno prestar atenciuon a las recomendaciones.
+Para usar cualquier proyecto desde tu ordenador siempre debes tener en cuenta los requisitos mínimos para ejecutar este en el mejor ambiente posible, y para eso es bueno prestar atención a las recomendaciones.
 
-### Prerequisites
+### Requisitos
 
-Necesitas tener los siguientes programas o tecnologias instaladas para poder ejecutar el proyecto.
+Necesitas tener los siguientes programas o tecnologías instaladas para poder ejecutar el proyecto.
 
-- **[Google Chrome](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
+- Cualquier Navegador para poder abrir el proyecto
+  - Google Chrome
+  - Mozilla Firefox
+  - Opera
 
 
 ### Instalar
 
-Para este proyecto necesitaras clonar este repositorio o descargarlo a tu ordenador.
+Para usar este proyecto necesitaras clonar este repositorio o descargarlo a tu ordenador. Si optas descargarlo de forma directa en la parte superior derecha del repositorio tendrás la opción, si no es tu caso puedes clonarlo colocando en tu consola git clone + la URL del repositorio a copiar
 
 ```
-$ npm install
-$ npm run dev
+$ git clone https://github.com/romerojoseing/test.git
 ```
 
 <br><br>
 
-## Deployment
+## Despliegue
 
-To deploy simply run
-
-```
-npm run build
-```
+Para desplegar este proyecto solo necesitaras ir a la carpeta y ejecutar el archivo index.html para tener el sitio corriendo en tu navegador.
 
 <br><br>
 
 ## Built With
 
-- [HTML](https://reactjs.org/)
-- [CSS](https://github.com/ReactTraining/react-router)
-- [PHP](https://redux.js.org/)
-- [Laravel](https://github.com/reduxjs/redux-thunk)
-- [MySql](https://www.styled-components.com)
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap 4
 
 <br><br>
 
-## Authors
+## Autor
 
 <p align="center"><img src="readme/loge.png" width="200"></p>
 
 <p align="center">
-  Todos los proyectos necesitan un lema de entrada para poder enamorar al usuario y convencerlos de que es necesario.
+  Si te gusto el proyecto sígueme y dame apoyo para seguir creando más contenido.
 </p>
+
 <p align="center">
-<a href="#titulo-del-proyecto"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a target="_blank" href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
+<a href="https://romerojose.com/" target="_blank" style="margin: 10px"><img src="readme/web.svg" width="30"></a>
+<a href="https://www.linkedin.com/in/romerojoseing/" target="_blank" style="margin: 10px"><img src="readme/linkedin.svg" width="30"></a>
+<a href="https://github.com/romerojoseing" target="_blank" style="margin: 10px"><img src="readme/github.svg" width="30"></a>
+<a href="https://www.instagram.com/romerojoseing/" target="_blank" style="margin: 10px"><img src="readme/instagram.svg" width="30"></a>
+<a href="https://www.facebook.com/romerojoseing" target="_blank" style="margin: 10px"><img src="readme/facebook.svg" width="18"></a>
+<a href="https://twitter.com/romerojoseing" target="_blank" style="margin: 10px"><img src="readme/twitter.svg" width="30"></a>
+
+
 </p>
