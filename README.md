@@ -14,11 +14,11 @@ Te doy la bienvenida a mi repositorio, puedes usar este contenido con total libe
 
 # Sitio Web: Romero José
 
-.
+Soy Romero Desarrollador Web autodidacta de Venezuela y uno de los proyectos más importantes es el que estás viendo ahora mismo, que se trata de mi sitio web y mi carta de presentación, quería algo ligero, optimizado para los buscadores y agradable a usuario.
 
 <br>
 
-## Prueba el Proyecto en Vivo  <a  href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads" ></a> 
+## [Prueba en Vivo](https://romerojose.com/) 
 ![Thumbnail](readme/romero.png)
 
 <br><br>
