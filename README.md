@@ -12,9 +12,9 @@ Te doy la bienvenida a mi repositorio, puedes usar este contenido con total libe
 
 <br>
 
-# Titulo del proyecto
+# Sitio Web: Romero José
 
-Descripcion corta del proyecto para explicar de que se trata y hacerle entender al usuario que el proyecto vale la pena ser utilizado y desarroollado en un entorno real de produccion.
+.
 
 <br>
 
