@@ -3,12 +3,6 @@
 <p align="center">
 Te doy la bienvenida a mi repositorio, puedes usar este contenido con total libertad, siempre teniendo el mayor respeto por los autores que desarrollaron el proyecto.
 </p>
-<p align="center">
-<a href="#titulo-del-proyecto"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a target="_blank" href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
 
 <br>
 
@@ -51,7 +45,7 @@ Para desplegar este proyecto solo necesitaras ir a la carpeta y ejecutar el arch
 
 <br><br>
 
-## Built With
+## Tecnologías Usadas
 
 - HTML5
 - CSS3
@@ -66,15 +60,4 @@ Para desplegar este proyecto solo necesitaras ir a la carpeta y ejecutar el arch
 
 <p align="center">
   Si te gusto el proyecto sígueme y dame apoyo para seguir creando más contenido.
-</p>
-
-<p align="center">
-<a href="https://romerojose.com/" target="_blank" style="margin: 10px"><img src="readme/web.svg" width="30"></a>
-<a href="https://www.linkedin.com/in/romerojoseing/" target="_blank" style="margin: 10px"><img src="readme/linkedin.svg" width="30"></a>
-<a href="https://github.com/romerojoseing" target="_blank" style="margin: 10px"><img src="readme/github.svg" width="30"></a>
-<a href="https://www.instagram.com/romerojoseing/" target="_blank" style="margin: 10px"><img src="readme/instagram.svg" width="30"></a>
-<a href="https://www.facebook.com/romerojoseing" target="_blank" style="margin: 10px"><img src="readme/facebook.svg" width="18"></a>
-<a href="https://twitter.com/romerojoseing" target="_blank" style="margin: 10px"><img src="readme/twitter.svg" width="30"></a>
-
-
 </p>
