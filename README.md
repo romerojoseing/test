@@ -1,4 +1,4 @@
-<p align="center"><img src="readme/log.png" width="150"></p>
+<p align="center"><img src="https://github.com/romerojoseing/archivos/blob/master/img/logov.png?raw=true" width="150"></p>
 
 <p align="center">
 Te doy la bienvenida a mi repositorio, puedes usar este contenido con total libertad, siempre teniendo el mayor respeto por los autores que desarrollaron el proyecto.
@@ -11,7 +11,7 @@ Te doy la bienvenida a mi repositorio, puedes usar este contenido con total libe
 Soy Romero Desarrollador Web autodidacta de Venezuela y uno de los proyectos más importantes es el que estás viendo ahora mismo, que se trata de mi sitio web y mi carta de presentación, quería algo ligero, optimizado para los buscadores y agradable a usuario.
 
 ## [Prueba en Vivo](https://romerojose.com/) 
-![Thumbnail](readme/romero.png)
+![Thumbnail](https://github.com/romerojoseing/archivos/blob/master/img/romero.png?raw=true)
 
 <br><br>
 
@@ -56,7 +56,7 @@ Para desplegar este proyecto solo necesitaras ir a la carpeta y ejecutar el arch
 
 ## Autor
 
-<p align="center"><img src="readme/loge.png" width="200"></p>
+<p align="center"><img src="https://github.com/romerojoseing/archivos/blob/master/img/logoh.png?raw=true" width="200"></p>
 
 <p align="center">
   Si te gusto el proyecto sígueme y dame apoyo para seguir creando más contenido.
