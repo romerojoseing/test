@@ -61,3 +61,12 @@ Para desplegar este proyecto solo necesitaras ir a la carpeta y ejecutar el arch
 <p align="center">
   Si te gusto el proyecto sígueme y dame apoyo para seguir creando más contenido.
 </p>
+
+<p align="center">
+  <a target="_blank" href="https://romerojose.com/"><img src="https://github.com/romerojoseing/archivos/blob/master/img/web.png?raw=true" height="20"></a> - 
+  <a target="_blank" href="https://www.linkedin.com/in/romerojoseing/"><img src="https://github.com/romerojoseing/archivos/blob/master/img/linkedin.png?raw=true" height="20"></a> - 
+  <a target="_blank" href="https://github.com/romerojoseing"><img src="https://github.com/romerojoseing/archivos/blob/master/img/github.png?raw=true" height="20"></a> - 
+  <a target="_blank" href="https://www.instagram.com/romerojoseing/"><img src="https://github.com/romerojoseing/archivos/blob/master/img/instagram.png?raw=true" height="20"></a> - 
+  <a target="_blank" href="https://www.facebook.com/romerojoseing"><img src="https://github.com/romerojoseing/archivos/blob/master/img/facebook.png?raw=true" height="20"></a> - 
+  <a target="_blank" href="https://twitter.com/romerojoseing"><img src="https://github.com/romerojoseing/archivos/blob/master/img/twitter.png?raw=true" height="20"></a>
+</p>
