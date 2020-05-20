@@ -59,7 +59,7 @@ Para desplegar este proyecto solo necesitaras ir a la carpeta y ejecutar el arch
 <p align="center"><img src="https://github.com/romerojoseing/archivos/blob/master/img/logoh.png?raw=true" width="150"></p>
 
 <p align="center">
-  Si te gusta mi contenido, compartelo y sigueme en mis redes para estar al tanto de nuevas publicaciones y proyectos interesantes.
+  Si te gusta lo que hago, visita mi web y comparte mi contenido, tambien puedes seguirme en mis redes para estar al tanto de nuevas publicaciones y proyectos interesantes que estare desarrollando.
 </p>
 
 <p align="center">
