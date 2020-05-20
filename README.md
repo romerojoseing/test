@@ -17,17 +17,18 @@ Mira **Requisitos** para conocer los estándares mínimos para usar el proyecto.
 
 _Necesitaras tener instaladas las siguientes tecnologías para el uso de este proyecto._
 
-- Cualquier Navegador para poder abrir el proyecto
-  - Google Chrome
-  - Mozilla Firefox
-  - Opera
+Cualquier Navegador para poder abrir el proyecto
+
+* Google Chrome
+* Mozilla Firefox
+* Opera
 
 ### Instalación 🔧
 
 _Para usar este proyecto necesitaras clonar este repositorio o descargarlo a tu ordenador. Si optas descargarlo de forma directa en la parte superior derecha del repositorio tendrás la opción, si no es tu caso puedes clonarlo usando el siguiente comando._
 
 ```ssh
-$ git clone https://github.com/romerojoseing/test.git
+  $ git clone https://github.com/romerojoseing/test.git
 ```
 
 <br>
