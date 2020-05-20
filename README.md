@@ -19,9 +19,10 @@ _Necesitaras tener instaladas las siguientes tecnologías para el uso de este pr
 
 Cualquier Navegador para poder abrir el proyecto
 
-* Google Chrome
-* Mozilla Firefox
-* Opera
+* [Google Chrome](http://www.dropwizard.io/1.0.2/docs/)
+* [Mozilla Firefox](https://maven.apache.org/)
+* [Opera](https://rometools.github.io/rome/)
+* [Safari](https://rometools.github.io/rome/)
 
 ### Instalación 🔧
 
@@ -41,7 +42,7 @@ _Para usar este proyecto luego de tenerlo clonado o descargado, simplemente debe
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+_Para el desarrollo de este proyecto se utilizaron las siguientes tecnologías:_
 
 * [HTML 5](http://www.dropwizard.io/1.0.2/docs/) - Maquetación y estructura web.
 * [CSS 3](https://maven.apache.org/) - Diseño de estilos.
