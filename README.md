@@ -63,9 +63,9 @@ Diseñado con ❤️ por [Romero José](https://romerojose.com/)
 
 ### Redes Sociales
 
-* **GitHub** - *Repositorios de mis últimos proyectos* - [@romerojoseing](https://github.com/villanuevand)
-* **CodePen** - *Mini proyectos y pruebas interesantes* - [@romerojoseing](#fulanito-de-tal)
-* **LinkedIn** - *Perfil desarrollador profesional* - [@romerojoseing](#fulanito-de-tal)
-* **Instagram** - *Documentando mi viaje* - [@romerojoseing](#fulanito-de-tal)
-* **Facebook** - *Publicaciones y contenido promocional* - [@romerojoseing](#fulanito-de-tal)
-* **Twitter** - *Comentarios random y más* - [@romerojoseing](#fulanito-de-tal)
+* **GitHub** - *Repositorios de mis últimos proyectos* - [romerojoseing](https://github.com/villanuevand)
+* **CodePen** - *Mini proyectos y pruebas interesantes* - [romerojoseing](#fulanito-de-tal)
+* **LinkedIn** - *Perfil desarrollador profesional* - [romerojoseing](#fulanito-de-tal)
+* **Instagram** - *Documentando mi viaje* - [romerojoseing](#fulanito-de-tal)
+* **Facebook** - *Publicaciones y contenido promocional* - [romerojoseing](#fulanito-de-tal)
+* **Twitter** - *Comentarios random y más* - [romerojoseing](#fulanito-de-tal)
