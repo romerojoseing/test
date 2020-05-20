@@ -5,13 +5,15 @@ _Sitio web diseñado para mostrar mi perfil como Desarrollador Web, dentro de es
 ## [Ver en Vivo](https://romerojose.com/) ⚡
 ![Thumbnail](https://github.com/romerojoseing/archivos/blob/master/img/romero.png?raw=true)
 
+<br>
+
 ## Comenzando 🚀
 
 _Para usar cualquier proyecto desde tu ordenador siempre debes tener en cuenta los requisitos mínimos para ejecutar este en el mejor ambiente posible, y para eso es bueno prestar atención a las recomendaciones._
 
 Mira **Requisitos** para conocer los estándares mínimos para usar el proyecto.
 
----
+<br>
 
 ### Requisitos 📋
 
@@ -22,7 +24,7 @@ _Necesitaras tener instaladas las siguientes tecnologías para el uso de este pr
   - Mozilla Firefox
   - Opera
 
----
+<br>
 
 ### Instalación 🔧
 
@@ -32,9 +34,13 @@ _Para usar este proyecto necesitaras clonar este repositorio o descargarlo a tu 
 $ git clone https://github.com/romerojoseing/test.git
 ```
 
+<br>
+
 ## Usar Proyecto 👓
 
 _Para usar este proyecto luego de tenerlo clonado o descargado, simplemente debemos ir a la carpeta del proyecto y abrir el archivo index.html con esto lo tendríamos funcionando perfectamente._
+
+<br>
 
 ## Construido con 🛠️
 
@@ -45,13 +51,15 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * [JavaScript](https://rometools.github.io/rome/) - Animaciones y funcionalidades.
 * [Bootstrap 4](https://rometools.github.io/rome/) - Framework para CSS.
 
+<br>
+
 ## Autor ✒️
 
 _Si te gusta lo que hago, visita mi web y comparte mi contenido, también puedes seguirme en mis redes para estar al tanto de nuevas publicaciones y proyectos interesantes que estaré desarrollando._
 
 Diseñado con ❤️ por [Romero José](https://romerojose.com/)
 
----
+<br>
 
 ### Redes Sociales
 
