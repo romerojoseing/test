@@ -19,10 +19,9 @@ _Necesitaras tener instaladas las siguientes tecnologías para el uso de este pr
 
 Cualquier Navegador para poder abrir el proyecto
 
-* [Google Chrome](http://www.dropwizard.io/1.0.2/docs/)
-* [Mozilla Firefox](https://maven.apache.org/)
-* [Opera](https://rometools.github.io/rome/)
-* [Safari](https://rometools.github.io/rome/)
+* [Google Chrome](https://www.google.com/intl/es/chrome/)
+* [Mozilla Firefox](https://www.mozilla.org/es-ES/firefox/new/)
+* [Opera](https://www.opera.com/es)
 
 ### Instalación 🔧
 
@@ -44,10 +43,10 @@ _Para usar este proyecto luego de tenerlo clonado o descargado, simplemente debe
 
 _Para el desarrollo de este proyecto se utilizaron las siguientes tecnologías:_
 
-* [HTML 5](http://www.dropwizard.io/1.0.2/docs/) - Maquetación y estructura web.
-* [CSS 3](https://maven.apache.org/) - Diseño de estilos.
-* [JavaScript](https://rometools.github.io/rome/) - Animaciones y funcionalidades.
-* [Bootstrap 4](https://rometools.github.io/rome/) - Framework para CSS.
+* [HTML 5](https://es.wikipedia.org/wiki/HTML) - Maquetación y estructura web.
+* [CSS 3](https://es.wikipedia.org/wiki/Hoja_de_estilos_en_cascada) - Diseño de estilos.
+* [JavaScript](https://es.wikipedia.org/wiki/JavaScript) - Animaciones y funcionalidades.
+* [Bootstrap 4](https://getbootstrap.com/) - Framework para CSS.
 
 <br>
 
@@ -59,9 +58,9 @@ Diseñado con ❤️ por [Romero José](https://romerojose.com/)
 
 ### Redes Sociales
 
-* **GitHub** - *Repositorios de mis últimos proyectos* - [romerojoseing](https://github.com/villanuevand)
-* **CodePen** - *Mini proyectos y pruebas interesantes* - [romerojoseing](#fulanito-de-tal)
-* **LinkedIn** - *Perfil desarrollador profesional* - [romerojoseing](#fulanito-de-tal)
-* **Instagram** - *Documentando mi viaje* - [romerojoseing](#fulanito-de-tal)
-* **Facebook** - *Publicaciones y contenido promocional* - [romerojoseing](#fulanito-de-tal)
-* **Twitter** - *Comentarios random y más* - [romerojoseing](#fulanito-de-tal)
+* **GitHub** - *Repositorios de mis últimos proyectos* - [romerojoseing](https://github.com/romerojoseing)
+* **CodePen** - *Mini proyectos y pruebas interesantes* - [romerojoseing](https://codepen.io/romerojoseing)
+* **LinkedIn** - *Perfil desarrollador profesional* - [romerojoseing](https://www.linkedin.com/in/romerojoseing/)
+* **Instagram** - *Documentando mi viaje* - [romerojoseing](https://www.instagram.com/romerojoseing/)
+* **Facebook** - *Publicaciones y contenido promocional* - [romerojoseing](https://www.facebook.com/romerojoseing)
+* **Twitter** - *Comentarios random y más* - [romerojoseing](https://twitter.com/romerojoseing)
