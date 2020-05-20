@@ -54,12 +54,12 @@ Para desplegar este proyecto solo necesitaras ir a la carpeta y ejecutar el arch
 
 <br><br>
 
-## Autor
+## Autor ✒️
 
-<p align="center"><img src="https://github.com/romerojoseing/archivos/blob/master/img/logoh.png?raw=true" width="200"></p>
+<p align="center"><img src="https://github.com/romerojoseing/archivos/blob/master/img/logoh.png?raw=true" width="150"></p>
 
 <p align="center">
-  Si te gusto el proyecto sígueme y dame apoyo para seguir creando más contenido.
+  Si te gusta mi contenido, compartelo y sigueme en mis redes para estar al tanto de nuevas publicaciones y proyectos interesantes.
 </p>
 
 <p align="center">
