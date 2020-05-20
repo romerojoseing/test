@@ -8,7 +8,7 @@ Te doy la bienvenida a mi repositorio, puedes usar este contenido con total libe
 
 # Sitio Web: Romero José
 
-Soy Romero Desarrollador Web autodidacta de Venezuela y uno de los proyectos más importantes es el que estás viendo ahora mismo, que se trata de mi sitio web y mi carta de presentación, quería algo ligero, optimizado para los buscadores y agradable a usuario.
+_Soy Romero Desarrollador Web autodidacta de Venezuela y uno de los proyectos más importantes es el que estás viendo ahora mismo, que se trata de mi sitio web y mi carta de presentación, quería algo ligero, optimizado para los buscadores y agradable a usuario._
 
 ## [Prueba en Vivo](https://romerojose.com/) 
 ![Thumbnail](https://github.com/romerojoseing/archivos/blob/master/img/romero.png?raw=true)
