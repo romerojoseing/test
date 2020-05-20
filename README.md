@@ -1,64 +1,57 @@
 # Sitio Web: Romero José
 
-Soy Romero Desarrollador Web autodidacta de Venezuela y uno de los proyectos más importantes es el que estás viendo ahora mismo, que se trata de mi sitio web y mi carta de presentación, quería algo ligero, optimizado para los buscadores y agradable a usuario.
+_Sitio web diseñado para mostrar mi perfil como Desarrollador Web, dentro de este se encuentra información de quien soy, mis últimos proyectos realizados y todos mis datos de contacto._
 
-## [Prueba en Vivo](https://romerojose.com/) 
+## [Ver en Vivo](https://romerojose.com/) ⚡
 ![Thumbnail](https://github.com/romerojoseing/archivos/blob/master/img/romero.png?raw=true)
 
-<br><br>
+## Comenzando 🚀
 
-## Usa el Proyecto
+_Para usar cualquier proyecto desde tu ordenador siempre debes tener en cuenta los requisitos mínimos para ejecutar este en el mejor ambiente posible, y para eso es bueno prestar atención a las recomendaciones._
 
-Para usar cualquier proyecto desde tu ordenador siempre debes tener en cuenta los requisitos mínimos para ejecutar este en el mejor ambiente posible, y para eso es bueno prestar atención a las recomendaciones.
+Mira **Requisitos** para conocer los estándares mínimos para usar el proyecto.
 
-### Requisitos
+### Requisitos 📋
 
-Necesitas tener los siguientes programas o tecnologías instaladas para poder ejecutar el proyecto.
+_Necesitaras tener instaladas las siguientes tecnologías para el uso de este proyecto._
 
 - Cualquier Navegador para poder abrir el proyecto
   - Google Chrome
   - Mozilla Firefox
   - Opera
 
+### Instalación 🔧
 
-### Instalar
+_Para usar este proyecto necesitaras clonar este repositorio o descargarlo a tu ordenador. Si optas descargarlo de forma directa en la parte superior derecha del repositorio tendrás la opción, si no es tu caso puedes clonarlo usando el siguiente comando._
 
-Para usar este proyecto necesitaras clonar este repositorio o descargarlo a tu ordenador. Si optas descargarlo de forma directa en la parte superior derecha del repositorio tendrás la opción, si no es tu caso puedes clonarlo colocando en tu consola git clone + la URL del repositorio a copiar
-
-```
+```ssh
 $ git clone https://github.com/romerojoseing/test.git
 ```
 
-<br><br>
+## Usar Proyecto 👓
 
-## Despliegue
+_Para usar este proyecto luego de tenerlo clonado o descargado, simplemente debemos ir a la carpeta del proyecto y abrir el archivo index.html con esto lo tendríamos funcionando perfectamente._
 
-Para desplegar este proyecto solo necesitaras ir a la carpeta y ejecutar el archivo index.html para tener el sitio corriendo en tu navegador.
+## Construido con 🛠️
 
-<br><br>
+_Menciona las herramientas que utilizaste para crear tu proyecto_
 
-## Tecnologías Usadas
-
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap 4
-
-<br><br>
+* [HTML 5](http://www.dropwizard.io/1.0.2/docs/) - Maquetación y estructura web.
+* [CSS 3](https://maven.apache.org/) - Diseño de estilos.
+* [JavaScript](https://rometools.github.io/rome/) - Animaciones y funcionalidades.
+* [Bootstrap 4](https://rometools.github.io/rome/) - Framework para CSS.
 
 ## Autor ✒️
 
-<p align="center"><img src="https://github.com/romerojoseing/archivos/blob/master/img/logoh.png?raw=true" width="150"></p>
+_Si te gusta lo que hago, visita mi web y comparte mi contenido, también puedes seguirme en mis redes para estar al tanto de nuevas publicaciones y proyectos interesantes que estaré desarrollando._
 
-<p align="center">
-  Si te gusta lo que hago, visita mi web y comparte mi contenido, tambien puedes seguirme en mis redes para estar al tanto de nuevas publicaciones y proyectos interesantes que estare desarrollando.
-</p>
+Diseñado con ❤️ por [Romero José](https://romerojose.com/) ⚡
 
-<p align="center">
-  <a target="_blank" href="https://romerojose.com/"><img src="https://github.com/romerojoseing/archivos/blob/master/img/web.png?raw=true" height="20"></a>  
-  <a target="_blank" href="https://www.linkedin.com/in/romerojoseing/"><img src="https://github.com/romerojoseing/archivos/blob/master/img/linkedin.png?raw=true" height="20"></a> 
-  <a target="_blank" href="https://github.com/romerojoseing"><img src="https://github.com/romerojoseing/archivos/blob/master/img/github.png?raw=true" height="20"></a> 
-  <a target="_blank" href="https://www.instagram.com/romerojoseing/"><img src="https://github.com/romerojoseing/archivos/blob/master/img/instagram.png?raw=true" height="20"></a>
-  <a target="_blank" href="https://www.facebook.com/romerojoseing"><img src="https://github.com/romerojoseing/archivos/blob/master/img/facebook.png?raw=true" height="20"></a> 
-  <a target="_blank" href="https://twitter.com/romerojoseing"><img src="https://github.com/romerojoseing/archivos/blob/master/img/twitter.png?raw=true" height="20"></a>
-</p>
+### Redes Sociales
+
+* **GitHub** - *Repositorios de mis últimos proyectos* - [@romerojoseing](https://github.com/villanuevand)
+* **CodePen** - *Mini proyectos y pruebas interesantes* - [@romerojoseing](#fulanito-de-tal)
+* **LinkedIn** - *Perfil desarrollador profesional* - [@romerojoseing](#fulanito-de-tal)
+* **Instagram** - *Documentando mi viaje* - [@romerojoseing](#fulanito-de-tal)
+* **Facebook** - *Publicaciones y contenido promocional* - [@romerojoseing](#fulanito-de-tal)
+* **Twitter** - *Comentarios random y más* - [@romerojoseing](#fulanito-de-tal)
