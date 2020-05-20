@@ -11,6 +11,8 @@ _Para usar cualquier proyecto desde tu ordenador siempre debes tener en cuenta l
 
 Mira **Requisitos** para conocer los estándares mínimos para usar el proyecto.
 
+---
+
 ### Requisitos 📋
 
 _Necesitaras tener instaladas las siguientes tecnologías para el uso de este proyecto._
@@ -19,6 +21,8 @@ _Necesitaras tener instaladas las siguientes tecnologías para el uso de este pr
   - Google Chrome
   - Mozilla Firefox
   - Opera
+
+---
 
 ### Instalación 🔧
 
@@ -45,7 +49,9 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 _Si te gusta lo que hago, visita mi web y comparte mi contenido, también puedes seguirme en mis redes para estar al tanto de nuevas publicaciones y proyectos interesantes que estaré desarrollando._
 
-Diseñado con ❤️ por [Romero José](https://romerojose.com/) ⚡
+Diseñado con ❤️ por [Romero José](https://romerojose.com/)
+
+---
 
 ### Redes Sociales
 
