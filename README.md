@@ -1,11 +1,3 @@
-<p align="center"><img src="https://github.com/romerojoseing/archivos/blob/master/img/logov.png?raw=true" width="150"></p>
-
-<p align="center">
-Te doy la bienvenida a mi repositorio, puedes usar este contenido con total libertad, siempre teniendo el mayor respeto por los autores que desarrollaron el proyecto.
-</p>
-
-<br>
-
 # Sitio Web: Romero José
 
 Soy Romero Desarrollador Web autodidacta de Venezuela y uno de los proyectos más importantes es el que estás viendo ahora mismo, que se trata de mi sitio web y mi carta de presentación, quería algo ligero, optimizado para los buscadores y agradable a usuario.
