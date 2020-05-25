@@ -1,31 +1,31 @@
-# Sitio Web: Romero José
+# Website: Romero José
 
-_Sitio web diseñado para mostrar mi perfil como Desarrollador Web, dentro de este se encuentra información de quien soy, mis últimos proyectos realizados y todos mis datos de contacto._
+_Website designed to show my profile as a Web Developer, within this you will find information about who I am, my latest projects and all my contact details._
 
-## [Ver en Vivo](https://romerojose.com/) ⚡
+## [Try the live demo](https://romerojose.com/) ⚡
 ![Thumbnail](https://github.com/romerojoseing/archivos/blob/master/img/romero.png?raw=true)
 
 <br>
 
-## Comenzando 🚀
+## Getting Started 🚀
 
-_Para usar cualquier proyecto desde tu ordenador siempre debes tener en cuenta los requisitos mínimos para ejecutar este en el mejor ambiente posible, y para eso es bueno prestar atención a las recomendaciones._
+_These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system._
 
-Mira **Requisitos** para conocer los estándares mínimos para usar el proyecto.
+See **Requirements** to know the minimum standards to use the project.
 
-### Requisitos 📋
+### Requirements 📋
 
-_Necesitaras tener instaladas las siguientes tecnologías para el uso de este proyecto._
+_You need to have the following technologies installed to use this project._
 
-Cualquier Navegador para poder abrir el proyecto
+Any browser to open the project.
 
 * [Google Chrome](https://www.google.com/intl/es/chrome/)
 * [Mozilla Firefox](https://www.mozilla.org/es-ES/firefox/new/)
 * [Opera](https://www.opera.com/es)
 
-### Instalación 🔧
+### Installing 🔧
 
-_Para usar este proyecto necesitaras clonar este repositorio o descargarlo a tu ordenador. Si optas descargarlo de forma directa en la parte superior derecha del repositorio tendrás la opción, si no es tu caso puedes clonarlo usando el siguiente comando._
+_To use this project you will need to clone this repository or download it to your computer. If you choose to download it directly in the upper right part of the repository you will have the option, if it is not your case you can clone it using the following command._
 
 ```ssh
   $ git clone https://github.com/romerojoseing/test.git
@@ -33,34 +33,34 @@ _Para usar este proyecto necesitaras clonar este repositorio o descargarlo a tu 
 
 <br>
 
-## Usar Proyecto 👓
+## Use Project 👓
 
-_Para usar este proyecto luego de tenerlo clonado o descargado, simplemente debemos ir a la carpeta del proyecto y abrir el archivo index.html con esto lo tendríamos funcionando perfectamente._
-
-<br>
-
-## Construido con 🛠️
-
-_Para el desarrollo de este proyecto se utilizaron las siguientes tecnologías:_
-
-* [HTML 5](https://es.wikipedia.org/wiki/HTML) - Maquetación y estructura web.
-* [CSS 3](https://es.wikipedia.org/wiki/Hoja_de_estilos_en_cascada) - Diseño de estilos.
-* [JavaScript](https://es.wikipedia.org/wiki/JavaScript) - Animaciones y funcionalidades.
-* [Bootstrap 4](https://getbootstrap.com/) - Framework para CSS.
+_To use this project after having it cloned or downloaded, we simply have to go to the project folder and open the file **index.html** with this we would have it working perfectly._
 
 <br>
 
-## Autor ✒️
+## Built With 🛠️
 
-_Si te gusta lo que hago, visita mi web y comparte mi contenido, también puedes seguirme en mis redes para estar al tanto de nuevas publicaciones y proyectos interesantes que estaré desarrollando._
+_Technologies used in the project:_
 
-Diseñado con ❤️ por [Romero José](https://romerojose.com/)
+* [HTML 5](https://es.wikipedia.org/wiki/HTML) - Layout and web structure.
+* [CSS 3](https://es.wikipedia.org/wiki/Hoja_de_estilos_en_cascada) - Style design.
+* [JavaScript](https://es.wikipedia.org/wiki/JavaScript) - Animations and functionalities.
+* [Bootstrap 4](https://getbootstrap.com/) - Framework for CSS.
 
-### Redes Sociales
+<br>
 
-* **GitHub** - *Repositorios de mis últimos proyectos* - [romerojoseing](https://github.com/romerojoseing)
-* **CodePen** - *Mini proyectos y pruebas interesantes* - [romerojoseing](https://codepen.io/romerojoseing)
-* **LinkedIn** - *Perfil desarrollador profesional* - [romerojoseing](https://www.linkedin.com/in/romerojoseing/)
-* **Instagram** - *Documentando mi viaje* - [romerojoseing](https://www.instagram.com/romerojoseing/)
-* **Facebook** - *Publicaciones y contenido promocional* - [romerojoseing](https://www.facebook.com/romerojoseing)
-* **Twitter** - *Comentarios random y más* - [romerojoseing](https://twitter.com/romerojoseing)
+## Author ✒️
+
+_If you like what I do, visit my website and share my content, you can also follow me on my networks to be aware of new publications and interesting projects that I will be developing._
+
+Designed with ❤️ by [Romero José](https://romerojose.com/)
+
+### Social networks
+
+* **GitHub** - *Repositories of my latest projects* - [romerojoseing](https://github.com/romerojoseing)
+* **CodePen** - *Interesting mini projects and tests* - [romerojoseing](https://codepen.io/romerojoseing)
+* **LinkedIn** - *Professional developer profile* - [romerojoseing](https://www.linkedin.com/in/romerojoseing/)
+* **Instagram** - *Documenting my journey* - [romerojoseing](https://www.instagram.com/romerojoseing/)
+* **Facebook** - *Publications and promotional content* - [romerojoseing](https://www.facebook.com/romerojoseing)
+* **Twitter** - *Random comments and more* - [romerojoseing](https://twitter.com/romerojoseing)
