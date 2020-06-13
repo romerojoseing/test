@@ -54,7 +54,7 @@ _Technologies used in the project:_
 
 _If you like what I do, visit my website and share my content, you can also follow me on my networks to be aware of new publications and interesting projects that I will be developing._
 
-Designed with ❤️ by [Romero José](https://romerojose.com/)
+Designed with ❤ by [Romero José](https://romerojose.com/)
 
 ### Social networks
 
