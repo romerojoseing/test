@@ -524,6 +524,7 @@
  .img-fluid {
    max-width: 100%;
    height: auto;
+   box-shadow: 0 0 30px 10px rgba(0, 0, 0, 0.1);
  }
  
  .img-thumbnail {
@@ -9709,8 +9710,6 @@
        
    font-family: sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
    font-weight: 700;
-   border-bottom: 1px solid rgba(117, 117, 117, 0.05);
-     box-shadow: 0 0 28px 0 rgba(0, 0, 0, 0.1);
  }
  
  #mainNav .navbar-brand {
