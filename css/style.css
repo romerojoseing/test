@@ -9787,7 +9787,7 @@
 }
  
  .masthead {
-   padding-top: calc(8rem + 74px);
+   padding-top: calc(6rem + 74px);
    padding-bottom: 6rem;
    position: absolute;
    z-index: 99;
