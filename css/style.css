@@ -10088,24 +10088,12 @@
 }
 
 .bg-text{
-  position: relative;
   color: white;
   font-style: italic;
+  background-color: #061824;
+  
   
   padding: 0.2rem;
-}
-
-.bg-text::after{
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  content: '';
-  top: 0;
-  left: 0;
-  background-color: #061824;
-  z-index: -1;
-  -webkit-transform: skewY(-2deg);
-  transform: skewY(-2deg);
 }
 
 .margentop{
