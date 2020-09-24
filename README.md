@@ -3,7 +3,7 @@
 _Website designed to show my profile as a Web Developer, within this you will find information about who I am, my latest projects and all my contact details._
 
 ## [Try the live demo](https://romerojose.com/) ⚡
-![Thumbnail](https://github.com/romerojoseing/archivos/blob/master/img/romero.png?raw=true)
+![Thumbnail](https://github.com/romerojoseing/test/blob/master/assets/img/portfolio/romerojose.png?raw=true)
 
 <br>
 
